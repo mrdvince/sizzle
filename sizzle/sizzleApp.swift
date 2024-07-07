@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct sizzleApp: App {
-  var body: some Scene {
-    WindowGroup {
-      MeetingView()
+    var body: some Scene {
+        WindowGroup {
+            MeetingView()
+        }
     }
-  }
 }
